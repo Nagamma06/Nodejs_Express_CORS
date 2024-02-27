@@ -21,6 +21,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 4. Create colors.js file 
 5. Run the application wit following command
   > _node server.js_
+
 **get colors API output:**
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/3564ff69-53f2-4dfd-ac19-fef8c31e38b1)
 
@@ -32,7 +33,8 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
  > _npm install_
 3. Edit App.jsx and add code from above App.jsx file 
 4. Run the application using command
- > _npm run dev_ 
+ > _npm run dev_
+
 **output**
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/0f03dd1c-79aa-4c96-8d04-03c8e551b1dc)
 
