@@ -19,7 +19,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
     > _npm install express cors_
 3. create server.js file . In this stage do not add cors middleware 
 4. Create colors.js file 
-5. Run the application wit following command
+5. Run the application with following command
   > _node server.js_
 
 **get colors API output:**
@@ -28,11 +28,11 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 ## reactjs application (frontend) - Fetch colors from nodejs server
 1. Create a react app using following command
  > _npm create vite@latest colors-app_
- > select React framework and then select Javascript
-2. Install necessary dependencies by running following command
+2. select React framework and then select Javascript
+3. Install necessary dependencies by running following command
  > _npm install_
-3. Edit App.jsx and add code from above App.jsx file 
-4. Run the application using command
+4. Edit App.jsx and add code from above App.jsx file 
+5. Run the application using command
  > _npm run dev_
 
 **output**
