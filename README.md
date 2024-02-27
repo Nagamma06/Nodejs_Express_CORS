@@ -13,7 +13,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 
 # Getting Started
 1. Create a nodejs application: run following command
-     *** npm init -y ***
+    > _npm init -y _
 
 
   
