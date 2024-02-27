@@ -12,8 +12,8 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 - To enable CORS in Node.js, you can use the cors package. This package provides a middleware that can be used to add CORS headers to your responses.
 
 # Getting Started
-1. Create a nodejs application
-    **_npm init -y _**
+1. Create a nodejs application: run following command
+     *** npm init -y ***
 
 
   
