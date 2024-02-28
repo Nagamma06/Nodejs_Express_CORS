@@ -53,7 +53,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 
 **output : click on the button , now you can see JSON data**
 
-![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/6d555c43-ef16-4c42-b12d-fa346911431f)
+![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/dc5f3ebe-063f-474b-838e-b01dc350af6b)
 
 
 
