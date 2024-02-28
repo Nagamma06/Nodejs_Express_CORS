@@ -35,17 +35,21 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 5. Run the application using command
  > _npm run dev_
 
-**output**
+
+
+**output: Click on button , there is CORS error on front . Open console to see error as shown in below image** 
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/0f03dd1c-79aa-4c96-8d04-03c8e551b1dc)
 
 
-## Solution 
+
+## Solution : Enable CORS on server
 - Add CORS middleware at our nodejs server as shown in below code
   > _import cors from 'cors';_
   > _app.use(cors());_
 - Now , we can access any API of nodejs Server from Reactjs application .
+  
 
-**output**
+**output : click on the button , now you can see JSON data**
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/6d555c43-ef16-4c42-b12d-fa346911431f)
 
 
