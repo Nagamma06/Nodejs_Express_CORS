@@ -23,6 +23,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
   > _node server.js_
 
 **get colors API output:**
+
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/3564ff69-53f2-4dfd-ac19-fef8c31e38b1)
 
 ## reactjs application (frontend) - Fetch colors from nodejs server
@@ -38,6 +39,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
 
 
 **output: Click on button , there is CORS error on front . Open console to see error as shown in below image** 
+
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/0f03dd1c-79aa-4c96-8d04-03c8e551b1dc)
 
 
@@ -50,6 +52,7 @@ Understanding and Working on CORS by enabling CORS in Nodejs application using E
   
 
 **output : click on the button , now you can see JSON data**
+
 ![image](https://github.com/Nagamma06/Nodejs_Express_CORS/assets/64766095/6d555c43-ef16-4c42-b12d-fa346911431f)
 
 
